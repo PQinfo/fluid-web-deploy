@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b857f937f4d8b3ac1bd07b6a68c1ba10.js"
+  "/fluid-web-deploy/precache-manifest.c1c1db388ba5498bfbd76c1c008a11bf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pwa-fluid-2"});
